@@ -7,8 +7,11 @@
         "id": "fbbd53def5965294",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "1. Projects/Double Maths/DM - Algerba + Indices.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "1. Projects/Double Maths/DM - Algerba + Indices.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -83,5 +87,11 @@
     "collapsed": true
   },
   "active": "fbbd53def5965294",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "1. Projects/Double Maths/Untitled.md",
+    "1. Projects/Computer Science.md",
+    "1. Projects/Untitled.md",
+    "3. Resources/Untitled.md",
+    "Notes/README.md"
+  ]
 }
