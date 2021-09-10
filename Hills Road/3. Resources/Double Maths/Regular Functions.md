@@ -31,3 +31,6 @@ The function is as follow : ` n! / (r! * (n - r)!)`
 This function can also be used to generate the numbers inside of *Pascal's Triangle*.
 
 ---
+## Pythagoras' theorem
+#pythagoras
+The theorem is as follows: `hypoteneus^2 = a^ + b^2`
