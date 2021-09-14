@@ -4,28 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "d73c6dca9ffbf992",
+        "id": "2dd2a3548291afe0",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "1. Projects (Hw)/Physics/Mechanics Prep Work.md",
-            "mode": "source"
-          }
-        },
-        "group": "649656790958c69d"
-      },
-      {
-        "id": "b0ef97adf6429cee",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "1. Projects (Hw)/Physics/Mechanics Prep Work.md",
-            "mode": "preview"
-          }
-        },
-        "group": "649656790958c69d"
+          "type": "graph",
+          "state": {}
+        }
       }
     ],
     "direction": "vertical"
@@ -35,7 +19,7 @@
     "type": "split",
     "children": [
       {
-        "id": "79629afac27c299e",
+        "id": "173d9f5a8bfffa81",
         "type": "tabs",
         "children": [
           {
@@ -52,12 +36,29 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#pythagoras",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "1c16b66c1a8d496f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "59ed2d211c115d61",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3. Resources/Symbols.md",
+                "mode": "source"
               }
             }
           }
@@ -81,14 +82,13 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Projects (Hw)/Physics/Mechanics Prep Work.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": false
               }
             }
           }
@@ -99,17 +99,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d73c6dca9ffbf992",
+  "active": "2dd2a3548291afe0",
   "lastOpenFiles": [
-    "1. Projects (Hw)/Physics/Mechanics Prep Work.md",
-    "2. Areas/Physcis/Term 1.md",
-    "3. Resources/Double Maths/Regular Functions.md",
+    "3. Resources/Computer Science/Computer Science Theory.md",
+    "3. Resources/Computer Science/Data Representation + Conversions.md",
+    "3. Resources/Computer Science/Untitled.md",
     "3. Resources/Computer Science.md",
-    "Pasted image 20210910123902.png",
     "Pasted image 20210910123917.png.md",
-    "3. Resources/Physics.md",
-    "1. Projects (Hw)/Physics/MechanicsPrepWork.md",
-    "2. Areas/Physcis/Untitled.md",
-    "1. Projects/Physics/Untitled.md"
+    "3. Resources/Physics/Physics Need To Know.md",
+    "2. Areas/Physcis/Term 1.md",
+    "3. Resources/Physics/Physics Online Resources.md",
+    "4. Archives/Mechanics Prep Work.md",
+    "3. Resources/Double Maths/Regular Functions.md"
   ]
 }

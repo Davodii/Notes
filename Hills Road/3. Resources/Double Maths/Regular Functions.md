@@ -23,6 +23,17 @@ The rule is: `cosA = (b^2 + c^2 - a^2) / 2bc`, where `a`, `b` and `c` are all th
 
 ![[Pasted image 20210910123917.png]]
 
+#### Soh Cah Toa
+Sine, Cosine and Tan can all be used to find out angles and sides of a right angle triangle.
+
+The phrase `Soh Cah Toa` refers to the separate functions which link the sides of the triangle to an angle.
+**
+`Soh => sinθ = opposite side / hypoteneuse`
+`Cah => cosθ = adjacent side / hypotteneuse`
+`Toa => tanθ = opposite side / adjacent side`
+**
+
+
 ---
 ## Binomial Expansion
 "N Choose R"
@@ -33,4 +44,7 @@ This function can also be used to generate the numbers inside of *Pascal's Trian
 ---
 ## Pythagoras' theorem
 #pythagoras
+
+**NOTE: Pythagora's theorem only applies to right-angle triangles**
+
 The theorem is as follows: `hypoteneus^2 = a^ + b^2`
