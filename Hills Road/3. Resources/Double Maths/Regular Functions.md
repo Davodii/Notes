@@ -3,8 +3,9 @@
 ## Sine, Cosine And Tan
 
 #### Sine, Cosine + Tan relations
-If there is an angle θ (*theta*), then the following is true:
+If there is an angle θ (*theta*), then the following are true:
 `tanθ = sinθ / cosθ`
+`cos^2 θ + sin^2 θ = 1`
 
 This can be linked to the unit circle:
 https://www.geogebra.org/m/nv9vex3X
@@ -41,9 +42,10 @@ The function is as follow : ` n! / (r! * (n - r)!)`
 
 This function can also be used to generate the numbers inside of *Pascal's Triangle*.
 
+[[Binomial Expansion#Binomial Expansions]]
+
 ---
 ## Pythagoras' theorem
-#pythagoras
 
 **NOTE: Pythagora's theorem only applies to right-angle triangles**
 
