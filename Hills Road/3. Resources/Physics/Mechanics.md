@@ -24,3 +24,5 @@ If an object is moving under the influence of gravity is defined as a projectile
 Given some initial values, the components of the projectile's path can be found using [[Mechanics#SUVAT]] to find the vertical components. During projectile motion, the horizontal velocity remains constant and thus the time taken for the projectile to move a horizontally is the same as the time taken to move vertically, thus by finding time on one axis, the components of the other axis can be found.
 
 In projectile motion, the time for an object to go up to its peak will be the same as the time to go from the peak back to the same starting height. Using this, you can figure out the total travel time by multiplying by two.
+
+To find the speed of a projectile, you can use [[Commonly Used Maths Stuff#Soh Cah Toa]] given two velocities, this can also be used to find the angle.

@@ -7,13 +7,13 @@ What is:
 - **Resistance**: a measure of the opposition to current in an electrical circuit, each conductor in a circuit has resistance
 
 ## Important Equations:
-Current (`I`) in `Amps`
-Voltage (`V`) in `Volts`
-Resistance (`R`) in `Ohms`
-Power (`P`) in `Watts`
-Energy / Work Done (`E`) in `Joules`
-Charge (`Q`) in `Coulombs` 
-Time (`t`) in `Seconds`
+- Current (`I`) in `Amps`
+- Voltage (`V`) in `Volts`
+- Resistance (`R`) in `Ohms`
+- Power (`P`) in `Watts`
+- Energy / Work Done (`E`) in `Joules`
+- Charge (`Q`) in `Coulombs` 
+- Time (`t`) in `Seconds`
  
 ```
 I = Q / t 
