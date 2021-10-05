@@ -6,7 +6,7 @@ Vectors are units which include both magnitude and direction. Some of these incl
 #### Resolving Vectors to their components
 Most often when asked a question about resolving a vector, the exam board will provide the vector and in which way it is acting, e.g `10N at 30° North of East`. 
 
-To resolve a vector means splitting it into its horizontal and vertical components. This can be done using [[Regular Functions#Soh Cah Toa]] to determine to needed vectors.
+To resolve a vector means splitting it into its horizontal and vertical components. This can be done using [[Commonly Used Maths Stuff#Soh Cah Toa]] to determine to needed vectors.
 
 #### Adding Vectors
 The most common method of adding vectors is by using the `head to tail` method where each vector is added onto the end of the previous vector beginning with a start point (the object) and ends at a certain point. The line between the object and the final point will be the resulting vector of the object's total vectors.

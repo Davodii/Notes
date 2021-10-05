@@ -21,7 +21,7 @@ Displacement - Vector, relative distance between two points, e.g walking in a ci
 `Velocity = displacement / time`
 
 ## Adding Vectors
-When adding vectors, create a triangle (there can be multiple vectors which create other polygons but triangles are the most common). You can then use [[Regular Functions#Pythagoras' theorem]] to calculate the resultant vector. 
+When adding vectors, create a triangle (there can be multiple vectors which create other polygons but triangles are the most common). You can then use [[Commonly Used Maths Stuff#Pythagoras' theorem]] to calculate the resultant vector. 
 In questions that ask for drawing the diagram, the vectors should first be turned to a relative value, e.g `1500N` -> `2.5cm` where `1cm` represents `600N`.
 
 ## Subtracting Vectors
@@ -34,5 +34,5 @@ In cases where the vectors are not exactly opposite, a polygon can again be used
 ## Resultant Vectors
 To resolve a vector means to break up a vector into its `X` and `Y` components.
 
-This can be done using [[Regular Functions#Pythagoras' theorem]] to calculate the other sides using angle `θ`
+This can be done using [[Commonly Used Maths Stuff#Pythagoras' theorem]] to calculate the other sides using angle `θ`
 and the hypotenuse (vector).

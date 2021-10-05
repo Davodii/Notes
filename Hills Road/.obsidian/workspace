@@ -7,8 +7,11 @@
         "id": "2dd2a3548291afe0",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "3. Resources/Physics/Physics Need To Know.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -82,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "3. Resources/Physics/Physics Need To Know.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,15 +105,15 @@
   },
   "active": "2dd2a3548291afe0",
   "lastOpenFiles": [
-    "3. Resources/Double Maths/Regular Functions.md",
-    "3. Resources/Double Maths/Online Resources.md",
-    "3. Resources/Symbols.md",
-    "3. Resources/Double Maths/Binomial Expansion.md",
-    "3. Resources/Double Maths/Logarithms.md",
-    "3. Resources/Double Maths/Common Knowlege.md",
     "3. Resources/Physics/Physics Need To Know.md",
-    "3. Resources/Physics/Physics Online Resources.md",
+    "3. Resources/Symbols.md",
+    "3. Resources/Physics/Electrcity.md",
     "3. Resources/Physics/Mechanics.md",
-    "3. Resources/Computer Science/Computer Science Online Resources.md"
+    "3. Resources/Physics/Untitled.md",
+    "3. Resources/Double Maths/Commonly Used Maths Stuff.md",
+    "Pasted image 20210910123917.png.md",
+    "3. Resources/Computer Science/Computer Science Theory.md",
+    "2. Areas/Physcis/Term 1.md",
+    "2. Areas/Untitled.md"
   ]
 }
