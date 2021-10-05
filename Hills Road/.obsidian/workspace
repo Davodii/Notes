@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "3. Resources/Physics/Electricity.md",
+            "file": "3. Resources/Double Maths/Logarithms.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "3. Resources/Physics/Electricity.md",
+            "file": "3. Resources/Double Maths/Logarithms.md",
             "mode": "preview"
           }
         },
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Resources/Physics/Electricity.md",
+                "file": "3. Resources/Double Maths/Logarithms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,8 +108,17 @@
                 "unlinkedCollapsed": false
               }
             }
+          },
+          {
+            "id": "a29012f94ad4c85b",
+            "type": "leaf",
+            "state": {
+              "type": "dictionary-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -118,15 +127,15 @@
   },
   "active": "2dd2a3548291afe0",
   "lastOpenFiles": [
+    "3. Resources/Double Maths/Logarithms.md",
+    "3. Resources/Double Maths/Maths Basics.md",
+    "2. Areas/Physics - Term 1.md",
+    "2. Areas/Maths - Term 1.md",
+    "3. Resources/Double Maths/Binomial Expansion.md",
     "3. Resources/Physics/Electricity.md",
     "3. Resources/Symbols.md",
     "3. Resources/Physics/Physics Online Resources.md",
     "3. Resources/Physics/Physics Need To Know.md",
-    "3. Resources/Physics/Mechanics.md",
-    "3. Resources/Double Maths/Maths Online Resources.md",
-    "3. Resources/Double Maths/Maths Basics.md",
-    "3. Resources/Double Maths/Logarithms.md",
-    "3. Resources/Double Maths/Commonly Used Maths Stuff.md",
-    "3. Resources/Double Maths/Binomial Expansion.md"
+    "3. Resources/Physics/Mechanics.md"
   ]
 }

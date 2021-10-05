@@ -8,5 +8,4 @@ There are 3 laws of logarithms and they can be used to solve equations that use 
 $$log_a(x * y) = log_a(x) + log_a(y)$$
 $$log_a( \frac{x}{y}) = log_a(x) - log_a(y)$$
 $$log_a(x^b) = b * log_a(x)$$
-
 There are more laws of `log` but these are the most important.
