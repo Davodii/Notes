@@ -12,7 +12,20 @@
             "file": "3. Resources/Physics/Electricity.md",
             "mode": "source"
           }
-        }
+        },
+        "group": "4094cfe1ec9eca96"
+      },
+      {
+        "id": "b9328279f61e0c10",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "3. Resources/Physics/Electricity.md",
+            "mode": "preview"
+          }
+        },
+        "group": "4094cfe1ec9eca96"
       }
     ],
     "direction": "vertical"
@@ -106,14 +119,14 @@
   "active": "2dd2a3548291afe0",
   "lastOpenFiles": [
     "3. Resources/Physics/Electricity.md",
-    "3. Resources/Computer Science/Computer Science Theory.md",
-    "2. Areas/Physics - Term 1.md",
-    "3. Resources/Physics/Electrcity.md",
-    "3. Resources/Physics/Mechanics.md",
-    "3. Resources/Physics/Physics Need To Know.md",
     "3. Resources/Symbols.md",
-    "3. Resources/Physics/Untitled.md",
+    "3. Resources/Physics/Physics Online Resources.md",
+    "3. Resources/Physics/Physics Need To Know.md",
+    "3. Resources/Physics/Mechanics.md",
+    "3. Resources/Double Maths/Maths Online Resources.md",
+    "3. Resources/Double Maths/Maths Basics.md",
+    "3. Resources/Double Maths/Logarithms.md",
     "3. Resources/Double Maths/Commonly Used Maths Stuff.md",
-    "Pasted image 20210910123917.png.md"
+    "3. Resources/Double Maths/Binomial Expansion.md"
   ]
 }

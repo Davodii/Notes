@@ -31,10 +31,11 @@ P = V * I
 ## Resistance
 Resistance is caused when electron collide with other parts of conductors, such as impurities and the metal ions. When a collision occurs, some energy is lost since it is absorbed by the ion. 
 
-#### Resistance in Series
+### Resistance in Series
 The total resistance in a series is circuit is the sum of all resistances in the circuit.
-`Rt = R1 + R2 + .... Rn`
+$$R_t = R_1 + R_2 + R_3 + ... + R_n$$
 
-#### Resistance in Parallel
+### Resistance in Parallel
 The total resistance of a circuit in parallel is the potential difference divided by total current.
-`1 / Rt = 1 / R1 + 1/R2 + .... 1 / Rn`
+$$\frac{1}{R_t} = \frac{1}{R_1} + \frac{1}{R_2} + \frac{1}{R_3} + ... + \frac{1}{R_n}$$
+

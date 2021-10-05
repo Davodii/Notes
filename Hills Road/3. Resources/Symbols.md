@@ -7,3 +7,5 @@
 Δ - Delta
 ε - Epsilon
 θ - Theta
+
+$\pi$ - PI

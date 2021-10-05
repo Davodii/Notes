@@ -11,11 +11,11 @@ If there is a constant acceleration acting upon an object, then `SUVAT` can be u
  - `T` -> time
 
 To find these values: the `SUVAT` equations can be used:
-- `V = u + at`
-- `v^2 = u^2 + 2as`
-- `s = ut + 1/2*at^2`
-- `s = vt -1/2*at^2`
-- `s = 1/2(u + v)t`
+$$v = u + at$$
+$$v^2 = u^2 + 2as$$
+$$s = ut + \frac{1}{2}at^2$$
+$$s = vt - \frac{1}{2}at^2$$
+$$s = \frac{(u + v)}{2}t$$
 
 
 ## Projectile motion
