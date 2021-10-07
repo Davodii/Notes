@@ -4,28 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "2dd2a3548291afe0",
+        "id": "aadef3a813506f79",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Notes/README.md",
-            "mode": "source"
-          }
-        },
-        "group": "4094cfe1ec9eca96"
-      },
-      {
-        "id": "b9328279f61e0c10",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Notes/README.md",
-            "mode": "preview"
-          }
-        },
-        "group": "4094cfe1ec9eca96"
+          "type": "empty",
+          "state": {}
+        }
       }
     ],
     "direction": "vertical"
@@ -98,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,17 +108,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "2dd2a3548291afe0",
+  "active": "aadef3a813506f79",
   "lastOpenFiles": [
-    "Notes/README.md",
+    "3. Resources/Physics/Untitled.md",
+    "3. Resources/Double Maths/Binomial Expansion.md",
+    "3. Resources/Double Maths/Commonly Used Maths Stuff.md",
     "3. Resources/Double Maths/Logarithms.md",
+    "Notes/README.md",
     "3. Resources/Double Maths/Maths Basics.md",
     "2. Areas/Physics - Term 1.md",
     "2. Areas/Maths - Term 1.md",
-    "3. Resources/Double Maths/Binomial Expansion.md",
     "3. Resources/Physics/Electricity.md",
-    "3. Resources/Symbols.md",
-    "3. Resources/Physics/Physics Online Resources.md",
-    "3. Resources/Physics/Physics Need To Know.md"
+    "3. Resources/Symbols.md"
   ]
 }

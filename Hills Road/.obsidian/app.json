@@ -1,5 +1,11 @@
 {
   "spellcheck": true,
   "promptDelete": false,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "spellcheckDictionary": [
+    "resistive",
+    "interatomic",
+    "repulsions",
+    "isotropically"
+  ]
 }
