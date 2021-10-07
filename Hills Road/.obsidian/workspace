@@ -7,7 +7,7 @@
         "id": "aadef3a813506f79",
         "type": "leaf",
         "state": {
-          "type": "empty",
+          "type": "graph",
           "state": {}
         }
       }
@@ -110,15 +110,15 @@
   },
   "active": "aadef3a813506f79",
   "lastOpenFiles": [
-    "3. Resources/Physics/Untitled.md",
-    "3. Resources/Double Maths/Binomial Expansion.md",
-    "3. Resources/Double Maths/Commonly Used Maths Stuff.md",
-    "3. Resources/Double Maths/Logarithms.md",
-    "Notes/README.md",
-    "3. Resources/Double Maths/Maths Basics.md",
+    "3. Resources/Computer Science/Sets.md",
+    "3. Resources/Computer Science/Loops.md",
+    "3. Resources/Computer Science/Data Representation + Conversions.md",
+    "3. Resources/Computer Science/Computer Science Theory.md",
     "2. Areas/Physics - Term 1.md",
-    "2. Areas/Maths - Term 1.md",
+    "3. Resources/Physics/Physics Need To Know.md",
+    "3. Resources/Physics/Forces.md",
+    "3. Resources/Physics/Physics Online Resources.md",
     "3. Resources/Physics/Electricity.md",
-    "3. Resources/Symbols.md"
+    "3. Resources/Physics/Mechanics.md"
   ]
 }

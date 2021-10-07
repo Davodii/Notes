@@ -3,6 +3,8 @@ The branch of physics that deals with forces in equilibrium is known as statics.
 
 Forces are vector quantities and is measured in Newtons. They are can be represented by an arrow on a diagram.
 
+See [[Physics Need To Know#Vectors]] to help with forces and their components.
+
 ## Weight
 An object's weight is calculated by its mass x gravitational force g.
 Gravitational field strength is measured in Newtons per kilogram.
